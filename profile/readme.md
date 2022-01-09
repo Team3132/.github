@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Team3132" >
-    <img src="allinonelogo.svg" alt="Logo" width="500" style="background-color: white; padding: 1em; border-radius: 25px;" >
+    <img src="https://github.com/Team3132/.github/raw/main/profile/logo.svg" alt="Logo" width="500" >
   </a>
 </div>
 
